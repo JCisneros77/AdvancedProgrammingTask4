@@ -42,7 +42,8 @@ int main(){
 	free(mutex_current_weight);
 	free(max_weight);
 	free(current_weight);
-
+	
+	return 0;
 }
 
 void * start_shopping(void * arg){
