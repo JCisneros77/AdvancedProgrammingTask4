@@ -4,8 +4,6 @@
 #include <stdlib.h>
 #include <signal.h>
 
-// Falta que se esperen cuando Snow White está afuera
-
 void mining(char*);
 void eating(char*,int);
 void feed_dwarf(int);
